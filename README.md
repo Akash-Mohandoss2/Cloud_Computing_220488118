@@ -1,19 +1,19 @@
 # Cloud_Computing_220488118
-# ---------------------------->Performance evaluation of Terapixel rendering Cloud(Super) Computing<---------------------------
+# Performance evaluation of Terapixel rendering Cloud(Super) Computing<---------------------------
 
-# ---------------------------------------------------->Description<----------------------------------------------------
+# Description<----------------------------------------------------
 
 1. This project performs Exploratory Data Analysis for the given datasets.
 2. The programming language used is Python.
 3. The code is executed in Jupyter Notebook.
 
-# ---------------------------------------------------->Datasets required<----------------------------------------------------
+# Datasets required<----------------------------------------------------
 
 1. application-checkpoints.csv -file contains application checkpoint events throughout the execution of the render job
 2. gpu.csv-This file contains metrics that were output regarding the status of the GPU on the virtual machine.
 3. task-x-y.csv -This file contains the x,y co-ordinates of which part the image was being rendered for each task.
 
-# ---------------------------------------------------->Files Included<----------------------------------------------------
+#Files Included<----------------------------------------------------
 
 1. Abstract_Cloud Computing(CSC8634) -> Containing the overview of the report
 2. Report_Cloud Computing (CSC8634) -> project report containing the brief Data analysis of the Datasets
@@ -21,7 +21,7 @@
 4. Code_Cloud_Computing.pdf -> PDF format of the executable code file
 
 :
-# ---------------------------------------------------->Step to be followed<----------------------------------------------------
+# Step to be followed<----------------------------------------------------
 
 1. Download the datasets from the university website link and place the file in an appropriate workplace in a folder.
 
